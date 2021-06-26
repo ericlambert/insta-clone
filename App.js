@@ -22,6 +22,8 @@ import LoginScreen from './src/components/auth/Login';
 import MainScreen from './src/components/Main';
 
 
+// this is a test
+
 export class App extends Component {
   constructor(props) {
     super(props)
